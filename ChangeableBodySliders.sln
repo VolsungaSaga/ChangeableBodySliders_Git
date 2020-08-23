@@ -9,6 +9,8 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
+		Export to Nexus|Any CPU = Export to Nexus|Any CPU
+		Export to Nexus|x64 = Export to Nexus|x64
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 	EndGlobalSection
@@ -17,6 +19,10 @@ Global
 		{678BC4DB-6002-4F6F-90FC-A7E6A2FCB6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{678BC4DB-6002-4F6F-90FC-A7E6A2FCB6AD}.Debug|x64.ActiveCfg = Debug|x64
 		{678BC4DB-6002-4F6F-90FC-A7E6A2FCB6AD}.Debug|x64.Build.0 = Debug|x64
+		{678BC4DB-6002-4F6F-90FC-A7E6A2FCB6AD}.Export to Nexus|Any CPU.ActiveCfg = Export to Nexus|Any CPU
+		{678BC4DB-6002-4F6F-90FC-A7E6A2FCB6AD}.Export to Nexus|Any CPU.Build.0 = Export to Nexus|Any CPU
+		{678BC4DB-6002-4F6F-90FC-A7E6A2FCB6AD}.Export to Nexus|x64.ActiveCfg = Export to Nexus|x64
+		{678BC4DB-6002-4F6F-90FC-A7E6A2FCB6AD}.Export to Nexus|x64.Build.0 = Export to Nexus|x64
 		{678BC4DB-6002-4F6F-90FC-A7E6A2FCB6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{678BC4DB-6002-4F6F-90FC-A7E6A2FCB6AD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{678BC4DB-6002-4F6F-90FC-A7E6A2FCB6AD}.Release|x64.ActiveCfg = Release|x64
